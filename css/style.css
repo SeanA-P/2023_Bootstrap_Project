@@ -3,3 +3,9 @@
     --gold: #FFB81c;
     --grey: #7a7977;
 }
+
+li{
+    float: left;
+    /* barrier between links option */
+    border-right: 1px solid white;
+}
