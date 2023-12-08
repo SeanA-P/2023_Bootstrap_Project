@@ -9,3 +9,7 @@ li{
     /* barrier between links option */
     border-right: 1px solid white;
 }
+
+input:focus::placeholder{
+    color: transparent;
+}
