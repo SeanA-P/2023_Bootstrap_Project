@@ -13,3 +13,5 @@ li{
 input:focus::placeholder{
     color: transparent;
 }
+
+form{}
